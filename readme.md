@@ -1,0 +1,1 @@
+a program in development to model and run a game of savage worlds. is intended to be used alongside a separate virtual table top program or even a real table top game.
