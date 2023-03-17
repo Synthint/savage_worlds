@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Academics",
+    "description": "Knowledge of liberal arts, social sciences, literature, history, etc.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Athletics",
+    "description": "Overall athletic coordination and ability. Climbing, jumping, balancing, wrestling, skiing, swimming, throwing, or catching.'",
+    "parent_attribute": "Agility",
+    "level": 4
+  },
+  {
+    "name": "Battle",
+    "description": "Strategy, tactics, and understanding military operations. A key skill in Mass Battles.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Boating",
+    "description": "Ability to sail or pilot a boat, ship, or other watercraft.'",
+    "parent_attribute": "Agility",
+    "level": 0
+  },
+  {
+    "name": "Common Knowledge",
+    "description": "General knowledge of a character’s world.'",
+    "parent_attribute": "Smarts",
+    "level": 4
+  },
+  {
+    "name": "Driving",
+    "description": "The ability to control, steer, and operate ground vehicles.'",
+    "parent_attribute": "Agility",
+    "level": 0
+  },
+  {
+    "name": "Electronics",
+    "description": "The use of electronic devices and systems.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Faith",
+    "description": "The arcane skill for Arcane Background (Miracles).'",
+    "parent_attribute": "Spirit",
+    "level": 0
+  },
+  {
+    "name": "Fighting",
+    "description": "Skill in armed and unarmed combat.'",
+    "parent_attribute": "Agility",
+    "level": 0
+  },
+  {
+    "name": "Focus",
+    "description": "The arcane skill for Arcane Background (Gifted).'",
+    "parent_attribute": "Spirit",
+    "level": 0
+  },
+  {
+    "name": "Gambling",
+    "description": "Skill and familiarity with games of chance.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Hacking",
+    "description": "Coding, programming, and breaking into computer systems.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Healing",
+    "description": "The ability to treat and heal Wounds and diseases, and decipher forensic evidence.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Intimidation",
+    "description": "A character’s ability to threaten others into doing what she wants.'",
+    "parent_attribute": "Spirit",
+    "level": 0
+  },
+  {
+    "name": "Language",
+    "description": "Knowledge and fluency in a particular language.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Notice",
+    "description": "General awareness and perception.'",
+    "parent_attribute": "Smarts",
+    "level": 4
+  },
+  {
+    "name": "Occult",
+    "description": "Knowledge of supernatural events, creatures, history, and ways.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Performance",
+    "description": "Singing, dancing, acting, or other forms of public expression.'",
+    "parent_attribute": "Spirit",
+    "level": 0
+  },
+  {
+    "name": "Persuasion",
+    "description": "The ability to convince others to do what you want.'",
+    "parent_attribute": "Spirit",
+    "level": 4
+  },
+  {
+    "name": "Piloting",
+    "description": "Skill with maneuvering vehicles that operate in three dimensions, such as airplanes, helicopters, spaceships, etc.'",
+    "parent_attribute": "Agility",
+    "level": 0
+  },
+  {
+    "name": "Psionics",
+    "description": "The arcane skill for Arcane Background (Psionics).'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Repair",
+    "description": "The ability to fix mechanical and electrical gadgets.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Research",
+    "description": "Finding written information from various sources.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Riding",
+    "description": "A character’s skill in mounting, controlling, and riding a tamed beast.'",
+    "parent_attribute": "Agility",
+    "level": 0
+  },
+  {
+    "name": "Science",
+    "description": "Knowledge of scientific fields such as biology, chemistry, geology, engineering, etc.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Shooting",
+    "description": "Precision with any type of ranged weapon.'",
+    "parent_attribute": "Agility",
+    "level": 0
+  },
+  {
+    "name": "Spellcasting",
+    "description": "The arcane skill for Arcane Background (Magic).'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Stealth",
+    "description": "The ability to sneak and hide.'",
+    "parent_attribute": "Agility",
+    "level": 4
+  },
+  {
+    "name": "Survival",
+    "description": "How to find food, water, or shelter, and tracking.'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Taunt",
+    "description": "Insulting or belittling another. Almost always done as a Test'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  },
+  {
+    "name": "Thievery",
+    "description": "Sleight of hand, pickpocketing, lockpicking, and other typically shady feats.'",
+    "parent_attribute": "Agility",
+    "level": 0
+  },
+  {
+    "name": "Weird Science",
+    "description": "The arcane skill for Arcane Background (Weird Science).'",
+    "parent_attribute": "Smarts",
+    "level": 0
+  }
+]

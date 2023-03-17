@@ -1,0 +1,37 @@
+{
+  "name": "Bilby the Wise",
+  "race": "Human",
+  "experience": 0,
+  "skills": [
+    {
+      "name": "Psionics",
+      "description": "The arcane skill for Arcane Background (Psionics).'",
+      "parent_attribute": "Smarts",
+      "level": 0
+    },
+    {
+      "name": "Boating",
+      "description": "Ability to sail or pilot a boat, ship, or other watercraft.'",
+      "parent_attribute": "Agility",
+      "level": 0
+    }
+  ],
+  "edges": [],
+  "bennies": 3,
+  "money": 500,
+  "carry_weight": 0,
+  "max_weight": 0,
+  "items": [],
+  "armor": [],
+  "weapons": [],
+  "pace": 6,
+  "parry": 0,
+  "toughness": 0,
+  "charisma": 0,
+  "agility": 4,
+  "smarts": 4,
+  "spirit": 4,
+  "strength": 4,
+  "vigor": 4,
+  "notes": []
+}

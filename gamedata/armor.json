@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Leather",
+    "cost": 50,
+    "weight": 15,
+    "description": "Covers torso, arms, and legs"
+  },
+  {
+    "name": "Chain Hauberk (long coat)",
+    "cost": 300,
+    "weight": 25,
+    "description": "Covers torso, arms, and legs"
+  },
+  {
+    "name": "Plate Corselet",
+    "cost": 400,
+    "weight": 25,
+    "description": "Covers torso"
+  },
+  {
+    "name": "Plate Arm (vambrace)",
+    "cost": 200,
+    "weight": 10,
+    "description": "Covers arms"
+  },
+  {
+    "name": "Plate Leggings (greaves)",
+    "cost": 300,
+    "weight": 15,
+    "description": "Covers legs"
+  },
+  {
+    "name": "Pot Helm",
+    "cost": 75,
+    "weight": 4,
+    "description": "50% vs. head shot"
+  },
+  {
+    "name": "Steel Helmet (enclosed)",
+    "cost": 150,
+    "weight": 8,
+    "description": "Covers head"
+  },
+  {
+    "name": "Plate Barding",
+    "cost": 1250,
+    "weight": 30,
+    "description": "For horses"
+  },
+  {
+    "name": "Small Shield (buckler)",
+    "cost": 25,
+    "weight": 8,
+    "description": "+1 Parry"
+  },
+  {
+    "name": "Medium Shield",
+    "cost": 50,
+    "weight": 12,
+    "description": "+1 Parry, +2 Armor to ranged shots that hit"
+  },
+  {
+    "name": "Large Shield (kite, pavise)",
+    "cost": 200,
+    "weight": 20,
+    "description": "+1 Parry, +2 Armor to ranged shots that hit"
+  },
+  {
+    "name": "Flak Jacket",
+    "cost": 80,
+    "weight": 12,
+    "description": "Covers Torso, +2 Armor against ballistics"
+  },
+  {
+    "name": "Kevlar Vest",
+    "cost": 250,
+    "weight": 8,
+    "description": "Covers torso only, +2 Armor and negates 4 AP from ballistics"
+  },
+  {
+    "name": "Kevlar Vest w/ inserts",
+    "cost": 2500,
+    "weight": 12,
+    "description": "As Kevlar, but ceramic inserts are +8 vs ballistics"
+  },
+  {
+    "name": "Motorcycle Helmet",
+    "cost": 75,
+    "weight": 5,
+    "description": "50% chance vs head shot"
+  },
+  {
+    "name": "Steel Pot (helmet)",
+    "cost": 80,
+    "weight": 5,
+    "description": "50% chance vs head shot"
+  },
+  {
+    "name": "Body Armor",
+    "cost": 200,
+    "weight": 4,
+    "description": "Negates up to 4 AP from ballistics"
+  },
+  {
+    "name": "Combat Armor",
+    "cost": 800,
+    "weight": 12,
+    "description": "Negates up to 4 AP from ballistics"
+  },
+  {
+    "name": "Energy Skin",
+    "cost": 500,
+    "weight": 5,
+    "description": "Only protects from energy. -2 to stealth. On damage, roll a die. Odd means energy skin is ruined."
+  },
+  {
+    "name": "Force Field, Personal",
+    "cost": 2000,
+    "weight": 4,
+    "description": "Ultra Tech. Ignore AP. Stack with other armor. "
+  },
+  {
+    "name": "Glide Suit",
+    "cost": 1500,
+    "weight": 8,
+    "description": "Can't be worn with other armor. Glide at 48. Distance=10x launch height. Piloting skill to use."
+  },
+  {
+    "name": "Smart Suit",
+    "cost": 2000,
+    "weight": 12,
+    "description": " Reduce cary weight by 20%. +2 to resist heat, cold, thirst, starvation. +1 Stealth. "
+  },
+  {
+    "name": "Smart Suit, Glider",
+    "cost": 3000,
+    "weight": 12,
+    "description": "As Smart Suit, but can glide like a Glide Suit"
+  },
+  {
+    "name": "Spacesuit",
+    "cost": 2000,
+    "weight": 20,
+    "description": "HUD, 50 mile 2-way radio. 8hrs Oxygen. Headlamp. Complete protection from cold and vacuum. +4 resist radiation."
+  },
+  {
+    "name": "Spacesuit w/ thrusters",
+    "cost": 3000,
+    "weight": 20,
+    "description": "As Spacesuit, but with small thruster system for navigating in Zero-G for up to eight hours."
+  },
+  {
+    "name": "Spacesuit, Combat",
+    "cost": 2000,
+    "weight": 20,
+    "description": "As Spacesuit, but with armor to protect from ballistics"
+  },
+  {
+    "name": "Spacesuit, Combat w/thrusters",
+    "cost": 3000,
+    "weight": 20,
+    "description": "As Spacesuit with thrusters, but with armor to protect from ballistics"
+  },
+  {
+    "name": "Polymer Shield, Small",
+    "cost": 200,
+    "weight": 2,
+    "description": "+1 Parry"
+  },
+  {
+    "name": "Polymer Shield, Medium",
+    "cost": 300,
+    "weight": 4,
+    "description": "+1 Parry, +4 Armor to ranged shots that hit"
+  },
+  {
+    "name": "Polymer Shield, Large",
+    "cost": 400,
+    "weight": 6,
+    "description": "+1 Parry, +4 Armor to ranged shots that hit"
+  }
+]

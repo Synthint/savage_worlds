@@ -1,0 +1,954 @@
+[
+  {
+    "name": "Ace",
+    "description": "+2 to Boating, Driving, Piloting; may make soak rolls for vehicle at -2",
+    "rank": "Novice",
+    "prerequisite": "Agility d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Acrobat",
+    "description": "+2 to nimbleness-based Agility rolls; +1 Parry if unencumbered",
+    "rank": "Novice",
+    "prerequisite": "Agility d8, Strength d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Alertness*",
+    "description": "+2 Notice",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Ambidextrous*",
+    "description": "Ignore -2 penalty for using off-hand",
+    "rank": "Novice",
+    "prerequisite": "Agility d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Arcane Background*",
+    "description": "Allows access to supernatural powers",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Arcane Resistance*",
+    "description": "Armor 2 vs. magic, +2 to resist powers",
+    "rank": "Novice",
+    "prerequisite": "Spirit d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Imp. Arcane Res",
+    "description": "Armor 4 vs. magic, +4 to resist magic effects",
+    "rank": "Novice",
+    "prerequisite": "Arcane Resistance",
+    "is_hinderance": false
+  },
+  {
+    "name": "Attractive*",
+    "description": "Charisma +2",
+    "rank": "Novice",
+    "prerequisite": "Vigor d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Very Attractive*",
+    "description": "Charisma +4",
+    "rank": "Novice",
+    "prerequisite": "Attractive",
+    "is_hinderance": false
+  },
+  {
+    "name": "Beast Bond",
+    "description": "Character may spend bennies for his animals",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Beast Master",
+    "description": "You gain an animal companion",
+    "rank": "Novice",
+    "prerequisite": "Spirit d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Berserk*",
+    "description": "After suffering a wound, your hero must make a Smarts roll or go berserk",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Block",
+    "description": "Parry +1",
+    "rank": "Seasoned",
+    "prerequisite": "Fighting d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Improved Block",
+    "description": "Parry +2",
+    "rank": "Veteran",
+    "prerequisite": "Block",
+    "is_hinderance": false
+  },
+  {
+    "name": "Brawny*",
+    "description": "Toughness +1; load limit is 8 x Str",
+    "rank": "Novice",
+    "prerequisite": "Strength d6, Vigor d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Champion",
+    "description": "+2 damage / Toughness vs. supernatural evil",
+    "rank": "Novice",
+    "prerequisite": "Spirit d8, Fighting d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Charismatic",
+    "description": "Charisma +2",
+    "rank": "Novice",
+    "prerequisite": "Spirit d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Combat Reflexes",
+    "description": "+2 to recover from being Shaken",
+    "rank": "Seasoned",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Command",
+    "description": "+1 to troops recovering from being Shaken",
+    "rank": "Novice",
+    "prerequisite": "Smarts d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Common Bond+",
+    "description": "May give bennies to companions",
+    "rank": "Novice",
+    "prerequisite": "Spirit d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Connections",
+    "description": "Call upon powerful friends",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Danger Sense",
+    "description": "Notice at -2 to detect surprise attacks/danger",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Dead Shot+",
+    "description": "Double ranged damage when dealt Joker",
+    "rank": "Seasoned",
+    "prerequisite": "Shoot/Throw d10",
+    "is_hinderance": false
+  },
+  {
+    "name": "Dodge",
+    "description": "-1 to be hit with ranged attacks",
+    "rank": "Seasoned",
+    "prerequisite": "Agility d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Improved Dodge",
+    "description": "-2 to be hit with ranged attacks",
+    "rank": "Veteran",
+    "prerequisite": "Dodge",
+    "is_hinderance": false
+  },
+  {
+    "name": "Fast Healer*",
+    "description": "+2 to natural healing rolls",
+    "rank": "Novice",
+    "prerequisite": "Vigor d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Fervor",
+    "description": "+1 melee damage to troops in command",
+    "rank": "Veteran",
+    "prerequisite": "Spirit d8, Command",
+    "is_hinderance": false
+  },
+  {
+    "name": "First Strike",
+    "description": "May attack one foe who moves adjacent",
+    "rank": "Novice",
+    "prerequisite": "Agility d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Imp. First Strike",
+    "description": "May attack every foe who moves adjacent",
+    "rank": "Heroic",
+    "prerequisite": "First Strike",
+    "is_hinderance": false
+  },
+  {
+    "name": "Fleet-Footed",
+    "description": "+2 Pace, d10 running die instead of d6",
+    "rank": "Novice",
+    "prerequisite": "Agility d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Florentine",
+    "description": "+1 vs. foes with single weapon and no shield; ignore 1 point of gang up bonus",
+    "rank": "Novice",
+    "prerequisite": "Agility d8, Fighting d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Followers+",
+    "description": "Attract 5 henchmen",
+    "rank": "Legendary",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Frenzy",
+    "description": "1 extra Fighting attack at -2",
+    "rank": "Seasoned",
+    "prerequisite": "Fighting d10",
+    "is_hinderance": false
+  },
+  {
+    "name": "Imp. Frenzy",
+    "description": "As above but no penalty",
+    "rank": "Veteran",
+    "prerequisite": "Frenzy",
+    "is_hinderance": false
+  },
+  {
+    "name": "Gadgeteer",
+    "description": "May “jury-rig” a device once per game session",
+    "rank": "Novice",
+    "prerequisite": "Arcane Backgroud (Weird Science), Weird Science d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Giant Killer",
+    "description": "+1d6 damage when attacking large creatures",
+    "rank": "Veteran",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Hard to Kill+",
+    "description": "Ignore wound penalties for Vigor rolls made on the Knockout or Injury tables",
+    "rank": "Novice",
+    "prerequisite": "Spirit d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Harder to Kill",
+    "description": "50% chance of surviving “death”",
+    "rank": "Veteran",
+    "prerequisite": "Hard to kill",
+    "is_hinderance": false
+  },
+  {
+    "name": "Healer",
+    "description": "+2 Healing",
+    "rank": "Novice",
+    "prerequisite": "Spirit d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Hold the Line!",
+    "description": "Troops have +1 Toughness",
+    "rank": "Seasoned",
+    "prerequisite": "Smarts d8, Command",
+    "is_hinderance": false
+  },
+  {
+    "name": "Holy/Unholy Warrior",
+    "description": "Call upon your chosen deity to repulse evil creatures",
+    "rank": "Novice",
+    "prerequisite": "Arcane Background (Miracles), Faith d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Inspire",
+    "description": "+1 to Spirit rolls of all troops in command",
+    "rank": "Seasoned",
+    "prerequisite": "Command",
+    "is_hinderance": false
+  },
+  {
+    "name": "Investigator",
+    "description": "+2 Investigation and Streetwise",
+    "rank": "Novice",
+    "prerequisite": "Smarts d8, Investigation d8, Streetwise d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Jack-of-all-Trades",
+    "description": "No -2 for unskilled Smarts based attempts",
+    "rank": "Novice",
+    "prerequisite": "Smarts d10",
+    "is_hinderance": false
+  },
+  {
+    "name": "Level Headed",
+    "description": "Act on best of two cards in combat",
+    "rank": "Seasoned",
+    "prerequisite": "Smarts d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Imp. Level Headed",
+    "description": "Act on best of three cards in combat",
+    "rank": "Seasoned",
+    "prerequisite": "Level Headed",
+    "is_hinderance": false
+  },
+  {
+    "name": "Luck*",
+    "description": "+1 benny per session",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Great Luck*",
+    "description": "+2 bennies per session",
+    "rank": "Novice",
+    "prerequisite": "Luck",
+    "is_hinderance": false
+  },
+  {
+    "name": "Marksman",
+    "description": "Aim maneuver (+2 Shooting) if hero does not move",
+    "rank": "Seasoned",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "McGyver",
+    "description": "May improvise temporary gadgets",
+    "rank": "Novice",
+    "prerequisite": "Smarts d6, Repair d6, Notice d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Mentalist",
+    "description": "+2 to any opposed Psionics roll",
+    "rank": "Novice",
+    "prerequisite": "Arcane Background (Psionics), Psionics d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Mighty Blow+",
+    "description": "Double melee damage when dealt Joker",
+    "rank": "Seasoned",
+    "prerequisite": "Fighting d10",
+    "is_hinderance": false
+  },
+  {
+    "name": "Mr. Fix It",
+    "description": "+2 to Repair rolls, 1/2 Repair time with raise",
+    "rank": "Novice",
+    "prerequisite": "Repair d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Natural Leader",
+    "description": "Leader may give bennies to troops in command",
+    "rank": "Novice",
+    "prerequisite": "Spirit d8, Command",
+    "is_hinderance": false
+  },
+  {
+    "name": "Nerves of Steel+",
+    "description": "Ignore 1 point of wound penalties",
+    "rank": "Novice",
+    "prerequisite": "Vigor d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Imp. Nerves of Steel",
+    "description": "Ignore 2 points of wound penalties",
+    "rank": "Novice",
+    "prerequisite": "Nerves of Steel",
+    "is_hinderance": false
+  },
+  {
+    "name": "New Power",
+    "description": "Character gains 2 new powers",
+    "rank": "Novice",
+    "prerequisite": "Arcane Background",
+    "is_hinderance": false
+  },
+  {
+    "name": "Noble*",
+    "description": "Rich; +2 Charisma; Status and wealth",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "No Mercy",
+    "description": "May spend bennies on damage rolls",
+    "rank": "Seasoned",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Power Points",
+    "description": "+5 Power Points, once per rank only",
+    "rank": "Novice",
+    "prerequisite": "Arcane Background",
+    "is_hinderance": false
+  },
+  {
+    "name": "Power Surge+",
+    "description": "Recover 10 Power Points when dealt a Joker in combat",
+    "rank": "Seasoned",
+    "prerequisite": "Arcane Skill d10",
+    "is_hinderance": false
+  },
+  {
+    "name": "Professional",
+    "description": "Trait becomes d12+1",
+    "rank": "Legendary",
+    "prerequisite": "d12 in Trait",
+    "is_hinderance": false
+  },
+  {
+    "name": "Expert",
+    "description": "Trait becomes d12+2",
+    "rank": "Legendary",
+    "prerequisite": "Professional",
+    "is_hinderance": false
+  },
+  {
+    "name": "Master+",
+    "description": "Wild Die is d10 for one Trait",
+    "rank": "Legendary",
+    "prerequisite": "Expert",
+    "is_hinderance": false
+  },
+  {
+    "name": "Quick*",
+    "description": "Discard draw of 5 or less for new card",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Quick Draw",
+    "description": "May draw weapon as a free action",
+    "rank": "Novice",
+    "prerequisite": "Agility d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Rapid Recharge",
+    "description": "Recover 10 Power Points per hour.",
+    "rank": "Seasoned",
+    "prerequisite": "Spirit d6, Arcane Background",
+    "is_hinderance": false
+  },
+  {
+    "name": "Imp. Rapid Recharge",
+    "description": "Recover 20 Power Points per hour.",
+    "rank": "Veteran",
+    "prerequisite": "Rapid Recharge",
+    "is_hinderance": false
+  },
+  {
+    "name": "Rich",
+    "description": "3x starting funds, $75K annual salary",
+    "rank": "Novice",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Filthy Rich",
+    "description": "5x starting funds, $250K annual salary",
+    "rank": "Novice",
+    "prerequisite": "Noble Birth or Rich",
+    "is_hinderance": false
+  },
+  {
+    "name": "Rock and Roll!",
+    "description": "Ignore full-auto penalty if shooter doesn’t move",
+    "rank": "Seasoned",
+    "prerequisite": "Shooting d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Scholar",
+    "description": "+2 to two different Knowledge skills",
+    "rank": "Novice",
+    "prerequisite": "d8 in affected skills",
+    "is_hinderance": false
+  },
+  {
+    "name": "Sidekick+",
+    "description": "Character gains a Novice WC sidekick",
+    "rank": "Legendary",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Soul Drain",
+    "description": "Recover 5 Power Points for a level of Fatigue.",
+    "rank": "Seasoned",
+    "prerequisite": "Arcane Background, Arcane Skill d10",
+    "is_hinderance": false
+  },
+  {
+    "name": "Steady Hands",
+    "description": "Ignore unstable platform penalty",
+    "rank": "Novice",
+    "prerequisite": "Agility d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Sweep",
+    "description": "Attack all adjacent foes at -2",
+    "rank": "Novice",
+    "prerequisite": "Strength d8, Fighting d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Imp. Sweep",
+    "description": "As above but with no penalty",
+    "rank": "Veteran",
+    "prerequisite": "Sweep",
+    "is_hinderance": false
+  },
+  {
+    "name": "Strong Willed",
+    "description": "+2 Intimidation and Taunt, +2 to resist",
+    "rank": "Novice",
+    "prerequisite": "Intimidation d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Thief",
+    "description": "+2 Climb, Lockpick, Stealth, or to disarm traps",
+    "rank": "Novice",
+    "prerequisite": "Agility d8, Climb d6, Lockpick d6, Stealth d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Tough as Nails",
+    "description": "Toughness +1",
+    "rank": "Legendary",
+    "prerequisite": "None",
+    "is_hinderance": false
+  },
+  {
+    "name": "Imp. Tough as Nails",
+    "description": "Toughness +2",
+    "rank": "Legendary",
+    "prerequisite": "Tough as Nails",
+    "is_hinderance": false
+  },
+  {
+    "name": "Trademark Weapon",
+    "description": "+1 Fighting or Shooting with particular weapon",
+    "rank": "Novice",
+    "prerequisite": "Fighting or Shooting d10",
+    "is_hinderance": false
+  },
+  {
+    "name": "Imp. Tr. Weapon",
+    "description": "+2 Fighting or Shooting with particular weapon",
+    "rank": "Veteran",
+    "prerequisite": "Trademark Weapon",
+    "is_hinderance": false
+  },
+  {
+    "name": "Two-Fisted",
+    "description": "May attack with a weapon in each hand without multi-action penalty.",
+    "rank": "Novice",
+    "prerequisite": "Agility d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Weapon Master",
+    "description": "Parry +1",
+    "rank": "Legendary",
+    "prerequisite": "Fightinf d12",
+    "is_hinderance": false
+  },
+  {
+    "name": "Master of Arms",
+    "description": "Parry +2",
+    "rank": "Legendary",
+    "prerequisite": "Weapon Master",
+    "is_hinderance": false
+  },
+  {
+    "name": "Wizard",
+    "description": "Each raise reduces cost of spell by 1 point",
+    "rank": "Novice",
+    "prerequisite": "Arcane Background (Magic), Spellcasting d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Woodsman",
+    "description": "+2 Tracking Survival, and Stealth",
+    "rank": "Novice",
+    "prerequisite": "Spirit d6, Survival d8, Tracking d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "Extra Effort",
+    "description": "Increase Focus by +1 for 1 Power Point or +2 for 3 Power Points",
+    "rank": "Seasoned",
+    "prerequisite": "Arcane Background (Gifted), Focus d6",
+    "is_hinderance": false
+  },
+  {
+    "name": "Artificer",
+    "description": "Allows user to create Arcane Devices.",
+    "rank": "Seasoned",
+    "prerequisite": "Arcane Background",
+    "is_hinderance": false
+  },
+  {
+    "name": "Channeling",
+    "description": "Reduce Power Point cost by 1 with a raise on the activation roll.",
+    "rank": "Seasoned",
+    "prerequisite": "Arcane Background",
+    "is_hinderance": false
+  },
+  {
+    "name": "Concentration",
+    "description": "Shaken results don’t cause Disruption (only Stun or Wounds).",
+    "rank": "Seasoned",
+    "prerequisite": "Arcane Background",
+    "is_hinderance": false
+  },
+  {
+    "name": "Feint",
+    "description": "You may choose to make foe resist with Smarts instead of Agility during a Fighting Test.",
+    "rank": "Novice",
+    "prerequisite": "Fighting d8",
+    "is_hinderance": false
+  },
+  {
+    "name": "All Thumbs",
+    "description": "-2 Repair; Roll of 1 causes malfunction",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Anemic",
+    "description": "-2 Vigor to resist sickness, disease, poison, environment",
+    "rank": "Minor",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Arrogant",
+    "description": "Must humiliate opponent, challenge the ‘leader’",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Bad Eyes",
+    "description": "-2 to attack or notice something more than 5” distant",
+    "rank": "Minor/Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Bad Luck",
+    "description": "One less benny per session",
+    "rank": "Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Big Mouth",
+    "description": "Unable to keep a secret, blabs at the worst time",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Blind",
+    "description": "-6 to all actions that rely on vision; -2 on social rolls, gain additional Edge",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Bloodthirsty",
+    "description": "Never takes prisoners",
+    "rank": "Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Cautious",
+    "description": "Character is overly careful",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Clueless",
+    "description": "-2 to most Common Knowledge rolls",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Code of Honor",
+    "description": "Character keeps his word and acts like a gentleman",
+    "rank": "Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Curious",
+    "description": "Character wants to know about everything",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Death Wish",
+    "description": "Hero wants to die after completing some task",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Delusional",
+    "description": "Character suffers from grave delusions",
+    "rank": "Minor/Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Doubting Thomas",
+    "description": "Character doesn’t believe in the supernatural",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Elderly",
+    "description": "Pace -1, -1 to Strength and Vigor die types; 5 extra skill points for any skill linked to Smarts",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Enemy",
+    "description": "Character has a recurring nemesis of some sort",
+    "rank": "Minor/Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Greedy",
+    "description": "Character is obsessed with wealth",
+    "rank": "Minor/Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Habit",
+    "description": "Charisma -1; Fatigue rolls when deprived of Major Habits",
+    "rank": "Minor/Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Hard of Hearing",
+    "description": "-2 to Notice sounds; automatic failure if completely deaf",
+    "rank": "Minor/Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Heroic",
+    "description": "Character always helps those in need",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Illiterate",
+    "description": "Hero is unable to read or write",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Lame",
+    "description": "-2 Pace and running die is a d4",
+    "rank": "Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Loyal",
+    "description": "The hero tries to never betray or disappoint his friends",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Mean",
+    "description": "-2 to his Charisma for ill-temper and surliness",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Obese",
+    "description": "+1 Toughness, -1 Pace, d4 running die",
+    "rank": "Minor",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "One Arm",
+    "description": "-4 to tasks requiring two arms",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "One Eye",
+    "description": "-1 Charisma, -2 to rolls requiring depth perception",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "One Leg",
+    "description": "Pace -2, d4 running die, -2 to rolls requiring mobility, -2 to Swimming skill",
+    "rank": "Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Outsider",
+    "description": "-2 Charisma, treated badly by those of dominant society",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Overconfident",
+    "description": "The hero believes he can do anything",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Pacifist",
+    "description": "Character fights only in self-defense as a Minor Hindrance; won’t harm living creatures as Major Hindrance",
+    "rank": "Minor/Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Phobia",
+    "description": "-2 or -4 to Trait tests when near the phobia",
+    "rank": "Minor/Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Poverty",
+    "description": "Half starting funds, inability to hang onto future income",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Quirk",
+    "description": "Character has some minor but persistent foible",
+    "rank": "Minor",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Small",
+    "description": "-1 Toughness",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Stubborn",
+    "description": "Hero always wants his way",
+    "rank": "Minor",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Ugly",
+    "description": "-2 Charisma due to appearance",
+    "rank": "Minor",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Vengeful",
+    "description": "Character holds a grudge; will kill as a Major Hindrance",
+    "rank": "Minor/Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Vow",
+    "description": "A pledge to a group, deity, or religion",
+    "rank": "Minor/Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Wanted",
+    "description": "The character is a criminal of some sort",
+    "rank": "Minor/Major",
+    "prerequisite": "None ",
+    "is_hinderance": true
+  },
+  {
+    "name": "Yellow",
+    "description": "The character is cowardly and suffers -2 to his Guts rolls",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  },
+  {
+    "name": "Young",
+    "description": "3 points for Attributes, 10 skill points, +1 benny per session",
+    "rank": "Major",
+    "prerequisite": "None",
+    "is_hinderance": true
+  }
+]

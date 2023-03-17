@@ -1,0 +1,500 @@
+[
+    {
+      "name": "Backpack",
+      "weight": 2,
+      "cost": 50,
+      "description": "-"
+    },
+    {
+      "name": "Bedroll",
+      "weight": 4,
+      "cost": 25,
+      "description": "-"
+    },
+    {
+      "name": "Blanket",
+      "weight": 4,
+      "cost": 10,
+      "description": "-"
+    },
+    {
+      "name": "Camera",
+      "weight": 2,
+      "cost": 75,
+      "description": "-"
+    },
+    {
+      "name": "Candle",
+      "weight": 1,
+      "cost": 1,
+      "description": "-"
+    },
+    {
+      "name": "Canteen",
+      "weight": 1,
+      "cost": 5,
+      "description": "-"
+    },
+    {
+      "name": "Cell Phone",
+      "weight": 0,
+      "cost": 100,
+      "description": "-"
+    },
+    {
+      "name": "Crowbar",
+      "weight": 2,
+      "cost": 10,
+      "description": "-"
+    },
+    {
+      "name": "Flashlight",
+      "weight": 3,
+      "cost": 20,
+      "description": "-"
+    },
+    {
+      "name": "Flask",
+      "weight": 1,
+      "cost": 5,
+      "description": "-"
+    },
+    {
+      "name": "Flint and Steel",
+      "weight": 1,
+      "cost": 3,
+      "description": "-"
+    },
+    {
+      "name": "Grapling Hook",
+      "weight": 2,
+      "cost": 100,
+      "description": "-"
+    },
+    {
+      "name": "Hammer",
+      "weight": 1,
+      "cost": 10,
+      "description": "-"
+    },
+    {
+      "name": "Lantern",
+      "weight": 3,
+      "cost": 25,
+      "description": "-"
+    },
+    {
+      "name": "Lighter",
+      "weight": 0,
+      "cost": 2,
+      "description": "-"
+    },
+    {
+      "name": "Lockpicks",
+      "weight": 1,
+      "cost": 200,
+      "description": "-"
+    },
+    {
+      "name": "Handcuffs",
+      "weight": 2,
+      "cost": 15,
+      "description": "-"
+    },
+    {
+      "name": "Oil (for lantern)",
+      "weight": 1,
+      "cost": 2,
+      "description": "-"
+    },
+    {
+      "name": "Quiver",
+      "weight": 2,
+      "cost": 25,
+      "description": "-"
+    },
+    {
+      "name": "Rope",
+      "weight": 15,
+      "cost": 10,
+      "description": "-"
+    },
+    {
+      "name": "Shovel",
+      "weight": 5,
+      "cost": 5,
+      "description": "-"
+    },
+    {
+      "name": "Soap",
+      "weight": 0.2,
+      "cost": 1,
+      "description": "-"
+    },
+    {
+      "name": "Tool Kit",
+      "weight": 5,
+      "cost": 200,
+      "description": "-"
+    },
+    {
+      "name": "Torch",
+      "weight": 1,
+      "cost": 5,
+      "description": "-"
+    },
+    {
+      "name": "Umbrella",
+      "weight": 2,
+      "cost": 5,
+      "description": "-"
+    },
+    {
+      "name": "Whistle",
+      "weight": 0,
+      "cost": 2,
+      "description": "-"
+    },
+    {
+      "name": "Whetstone",
+      "weight": 1,
+      "cost": 1,
+      "description": "-"
+    },
+    {
+      "name": "Camoflage Fatigues",
+      "weight": 1,
+      "cost": 20,
+      "description": "-"
+    },
+    {
+      "name": "Hiking Boots",
+      "weight": 1,
+      "cost": 100,
+      "description": "-"
+    },
+    {
+      "name": "Normal Clothing",
+      "weight": 1,
+      "cost": 20,
+      "description": "-"
+    },
+    {
+      "name": "Formal Clothing",
+      "weight": 1,
+      "cost": 200,
+      "description": "-"
+    },
+    {
+      "name": "Winter Gear",
+      "weight": 3,
+      "cost": 200,
+      "description": "-"
+    },
+    {
+      "name": "Cheap Meal",
+      "weight": 1,
+      "cost": 5,
+      "description": "-"
+    },
+    {
+      "name": "Good Meal (Restaurant)",
+      "weight": 1,
+      "cost": 15,
+      "description": "-"
+    },
+    {
+      "name": "Trail Ration",
+      "weight": 1,
+      "cost": 2,
+      "description": "-"
+    },
+    {
+      "name": "Saddle",
+      "weight": 10,
+      "cost": 10,
+      "description": "-"
+    },
+    {
+      "name": "Desktop Computer",
+      "weight": 20,
+      "cost": 800,
+      "description": "-"
+    },
+    {
+      "name": "Laptop",
+      "weight": 5,
+      "cost": 1200,
+      "description": "-"
+    },
+    {
+      "name": "Handheld Computer",
+      "weight": 1,
+      "cost": 250,
+      "description": "-"
+    },
+    {
+      "name": "3D Printer",
+      "weight": 10,
+      "cost": 500,
+      "description": "Makes up to 50lbs worth of common objects from blueprints."
+    },
+    {
+      "name": "Adhesive Patches",
+      "weight": 1,
+      "cost": 20,
+      "description": "Quick patch for punctured spacesuits."
+    },
+    {
+      "name": "Aurax Hoof Wear",
+      "weight": 8,
+      "cost": 200,
+      "description": "Shoes for Aurax"
+    },
+    {
+      "name": "Beacon",
+      "weight": 5,
+      "cost": 2000,
+      "description": "Distress signal"
+    },
+    {
+      "name": "Binders",
+      "weight": 1,
+      "cost": 10,
+      "description": "Space Hand-Cuffs"
+    },
+    {
+      "name": "Binoculars",
+      "weight": 2,
+      "cost": 250,
+      "description": "Exactly what it sounds like"
+    },
+    {
+      "name": "Binoculars+",
+      "weight": 2,
+      "cost": 2250,
+      "description": "As above, but with X-Ray vision"
+    },
+    {
+      "name": "Camouflage Suit",
+      "weight": 2,
+      "cost": 250,
+      "description": "For sneaking"
+    },
+    {
+      "name": "Cargo Loader",
+      "weight": 2000,
+      "cost": 200000,
+      "description": "Like in Alien"
+    },
+    {
+      "name": "Commlink",
+      "weight": 0.16,
+      "cost": 100,
+      "description": "Communicator"
+    },
+    {
+      "name": "Control Collar",
+      "weight": 2,
+      "cost": 500,
+      "description": "Used by a lot of slavers, but also useful for dealing with dangerous Xenos"
+    },
+    {
+      "name": "Cyber Deck",
+      "weight": 2,
+      "cost": 1000,
+      "description": "For Hacking into computers"
+    },
+    {
+      "name": "Electronic Lockpick",
+      "weight": 1,
+      "cost": 1500,
+      "description": "For opening doors with electronic locks"
+    },
+    {
+      "name": "Energy Cage",
+      "weight": 50,
+      "cost": 7500,
+      "description": "For space prison"
+    },
+    {
+      "name": "Energy Sheet",
+      "weight": 1,
+      "cost": 200,
+      "description": "Super snuggly blanket for bitter nights on unforgiving planets"
+    },
+    {
+      "name": "Energy Tent",
+      "weight": 2,
+      "cost": 500,
+      "description": "For the same"
+    },
+    {
+      "name": "Exoskeleton",
+      "weight": 5,
+      "cost": 10000,
+      "description": "Enhances the strength of the wearer by 2 steps"
+    },
+    {
+      "name": "Floran Sun Lamp",
+      "weight": 2,
+      "cost": 150,
+      "description": "Hey, a space-faring Floran's still gotta eat."
+    },
+    {
+      "name": "Floran Translation Device",
+      "weight": 1,
+      "cost": 2000,
+      "description": "Hey, a space-faring Floran's still gotta communicate with lesser lifeforms."
+    },
+    {
+      "name": "Force Field Generator, Personal",
+      "weight": 30,
+      "cost": 500000,
+      "description": "Forcefield in a MBT"
+    },
+    {
+      "name": "Gravity Trap",
+      "weight": 10,
+      "cost": 5000,
+      "description": "Traps people with an intense A-Grav field"
+    },
+    {
+      "name": "Gravity Trap, Miniature",
+      "weight": 2,
+      "cost": 1000,
+      "description": "Same but smaller"
+    },
+    {
+      "name": "Hoaverboard",
+      "weight": 2,
+      "cost": 200,
+      "description": "Like in Back to the Future II"
+    },
+    {
+      "name": "Language Translator",
+      "weight": 1,
+      "cost": 2000,
+      "description": "A must in this melting pot of a galaxy"
+    },
+    {
+      "name": "Matter Cutter",
+      "weight": 15,
+      "cost": 50000,
+      "description": "Also snaffles caps off any size jug, bottle or jar, and it really, really works."
+    },
+    {
+      "name": "Matter Remover",
+      "weight": 10,
+      "cost": 40000,
+      "description": "Sorta self-explanatory"
+    },
+    {
+      "name": "Medi-Gel",
+      "weight": 0.375,
+      "cost": 20,
+      "description": "Medicine and healing rolls get a +2"
+    },
+    {
+      "name": "Medi-Scanner",
+      "weight": 2,
+      "cost": 600,
+      "description": "Like Bones used in Star Trek"
+    },
+    {
+      "name": "Mineral Detector",
+      "weight": 100,
+      "cost": 4,
+      "description": "For finding particular types of matterials"
+    },
+    {
+      "name": "Nutribar",
+      "weight": 0.25,
+      "cost": 5,
+      "description": "Natural, Organic, and Definitely-Not-People"
+    },
+    {
+      "name": "Organic Gill",
+      "weight": 1,
+      "cost": 250,
+      "description": "For when those pesky lungs keep getting in the way of your fun"
+    },
+    {
+      "name": "Personal Data Device (PDD)",
+      "weight": 1,
+      "cost": 500,
+      "description": "Like your own personal computer, only in the future and cooler."
+    },
+    {
+      "name": "Projected Light Device",
+      "weight": 4,
+      "cost": 1000,
+      "description": "Let's call it what it is: A hologram generator"
+    },
+    {
+      "name": "Psionic Shield",
+      "weight": 1,
+      "cost": 1000,
+      "description": "Psychic girl troubles? Well no more!"
+    },
+    {
+      "name": "Rebreather",
+      "weight": 1,
+      "cost": 250,
+      "description": "As with the Organic Gill"
+    },
+    {
+      "name": "Scope ",
+      "weight": 1,
+      "cost": 300,
+      "description": "For rifles and such"
+    },
+    {
+      "name": "Scope+",
+      "weight": 1,
+      "cost": 900,
+      "description": "For rifles and such when you also need to see in the dark."
+    },
+    {
+      "name": "Sensor Suite, Medium",
+      "weight": 18,
+      "cost": 5000,
+      "description": "Any life signs captain?"
+    },
+    {
+      "name": "Sensor Suite, Small",
+      "weight": 2,
+      "cost": 500,
+      "description": "Same question"
+    },
+    {
+      "name": "Synoptic Teacher",
+      "weight": 2,
+      "cost": 1000,
+      "description": "Having trouble with that pesky History test? Cram with this! You will forget it after about a week, but whatever."
+    },
+    {
+      "name": "Synthetic Rope",
+      "weight": 5,
+      "cost": 10,
+      "description": "Like regular rope, but from the future."
+    },
+    {
+      "name": "Wall Walker System",
+      "weight": 2,
+      "cost": 300,
+      "description": "Ever wanted to be like Spiderman, but too many alive uncles were holding you back? Well no longer!"
+    },
+    {
+      "name": "Water Purification Filter",
+      "weight": 1,
+      "cost": 100,
+      "description": "For. Um. Purifying water."
+    },
+    {
+      "name": "Weapon Gimble",
+      "weight": 5,
+      "cost": 100,
+      "description": "Keeps your miniguns nice and steady."
+    }
+  ]
